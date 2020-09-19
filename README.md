@@ -23,10 +23,10 @@ Módulo de Frete Por Faixa de CEP, Peso, SubTotal, Tamanho e Volume para lojas O
 - Código 100% original
 
 ##### Adquira sua licença:
-- [Módulo Frete Por Faixa de CEP, Peso e SubTotal - R$ 49,50 em dev5.com.br](https://dev5.com.br/opencart/fretes/faixa-de-cep-peso-subtotal)
+- [Módulo Frete Por Faixa de CEP, Peso, SubTotal, Tamanho e Volume - R$ 49,50 em dev5.com.br](https://dev5.com.br/opencart/fretes/faixa-de-cep-peso-subtotal)
 
 ##### Changelog:
-- [Registro de Alterações Módulo Frete Por Faixa de CEP, Peso e SubTotal](https://dev5.com.br/opencart/fretes/faixa-de-cep-peso-subtotal#changelog)
+- [Registro de Alterações Módulo Frete Por Faixa de CEP, Peso, SubTotal, Tamanho e Volume](https://dev5.com.br/opencart/fretes/faixa-de-cep-peso-subtotal#changelog)
 
 ##### Nossos contatos:
 - [74 98117-4219](https://api.whatsapp.com/send?phone=5574981174219) (Telefone/Whatsapp)
